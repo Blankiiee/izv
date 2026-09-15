@@ -1,0 +1,14 @@
+C:\Users\Dream\Desktop\10\bin\Debug\net8.0-windows\ScreenTimeCalculator.exe
+C:\Users\Dream\Desktop\10\bin\Debug\net8.0-windows\ScreenTimeCalculator.deps.json
+C:\Users\Dream\Desktop\10\bin\Debug\net8.0-windows\ScreenTimeCalculator.runtimeconfig.json
+C:\Users\Dream\Desktop\10\bin\Debug\net8.0-windows\ScreenTimeCalculator.dll
+C:\Users\Dream\Desktop\10\bin\Debug\net8.0-windows\ScreenTimeCalculator.pdb
+C:\Users\Dream\Desktop\10\obj\Debug\net8.0-windows\Project_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream\Desktop\10\obj\Debug\net8.0-windows\Project_6.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\10\obj\Debug\net8.0-windows\Project_6.AssemblyInfo.cs
+C:\Users\Dream\Desktop\10\obj\Debug\net8.0-windows\Project_6.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\10\obj\Debug\net8.0-windows\ScreenTimeCalculator.dll
+C:\Users\Dream\Desktop\10\obj\Debug\net8.0-windows\refint\ScreenTimeCalculator.dll
+C:\Users\Dream\Desktop\10\obj\Debug\net8.0-windows\ScreenTimeCalculator.pdb
+C:\Users\Dream\Desktop\10\obj\Debug\net8.0-windows\Project_6.genruntimeconfig.cache
+C:\Users\Dream\Desktop\10\obj\Debug\net8.0-windows\ref\ScreenTimeCalculator.dll
