@@ -1,0 +1,14 @@
+C:\Users\Dream\Desktop\12\bin\Debug\net8.0-windows\CalorieTracker.exe
+C:\Users\Dream\Desktop\12\bin\Debug\net8.0-windows\CalorieTracker.deps.json
+C:\Users\Dream\Desktop\12\bin\Debug\net8.0-windows\CalorieTracker.runtimeconfig.json
+C:\Users\Dream\Desktop\12\bin\Debug\net8.0-windows\CalorieTracker.dll
+C:\Users\Dream\Desktop\12\bin\Debug\net8.0-windows\CalorieTracker.pdb
+C:\Users\Dream\Desktop\12\obj\Debug\net8.0-windows\Project_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream\Desktop\12\obj\Debug\net8.0-windows\Project_8.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\12\obj\Debug\net8.0-windows\Project_8.AssemblyInfo.cs
+C:\Users\Dream\Desktop\12\obj\Debug\net8.0-windows\Project_8.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\12\obj\Debug\net8.0-windows\CalorieTracker.dll
+C:\Users\Dream\Desktop\12\obj\Debug\net8.0-windows\refint\CalorieTracker.dll
+C:\Users\Dream\Desktop\12\obj\Debug\net8.0-windows\CalorieTracker.pdb
+C:\Users\Dream\Desktop\12\obj\Debug\net8.0-windows\Project_8.genruntimeconfig.cache
+C:\Users\Dream\Desktop\12\obj\Debug\net8.0-windows\ref\CalorieTracker.dll
