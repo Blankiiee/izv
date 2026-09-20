@@ -1,0 +1,14 @@
+C:\Users\Dream\Desktop\QuizFileSystems\bin\Debug\net8.0-windows\QuizFileSystems.exe
+C:\Users\Dream\Desktop\QuizFileSystems\bin\Debug\net8.0-windows\QuizFileSystems.deps.json
+C:\Users\Dream\Desktop\QuizFileSystems\bin\Debug\net8.0-windows\QuizFileSystems.runtimeconfig.json
+C:\Users\Dream\Desktop\QuizFileSystems\bin\Debug\net8.0-windows\QuizFileSystems.dll
+C:\Users\Dream\Desktop\QuizFileSystems\bin\Debug\net8.0-windows\QuizFileSystems.pdb
+C:\Users\Dream\Desktop\QuizFileSystems\obj\Debug\net8.0-windows\QuizFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream\Desktop\QuizFileSystems\obj\Debug\net8.0-windows\QuizFileSystems.AssemblyInfoInputs.cache
+C:\Users\Dream\Desktop\QuizFileSystems\obj\Debug\net8.0-windows\QuizFileSystems.AssemblyInfo.cs
+C:\Users\Dream\Desktop\QuizFileSystems\obj\Debug\net8.0-windows\QuizFileSystems.csproj.CoreCompileInputs.cache
+C:\Users\Dream\Desktop\QuizFileSystems\obj\Debug\net8.0-windows\QuizFileSystems.dll
+C:\Users\Dream\Desktop\QuizFileSystems\obj\Debug\net8.0-windows\refint\QuizFileSystems.dll
+C:\Users\Dream\Desktop\QuizFileSystems\obj\Debug\net8.0-windows\QuizFileSystems.pdb
+C:\Users\Dream\Desktop\QuizFileSystems\obj\Debug\net8.0-windows\QuizFileSystems.genruntimeconfig.cache
+C:\Users\Dream\Desktop\QuizFileSystems\obj\Debug\net8.0-windows\ref\QuizFileSystems.dll
