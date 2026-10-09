@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="uk">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#17191c">
+    <title>CinemaHub — система кінотеатру</title>
+    <link rel="stylesheet" href="/styles.css">
+    <script src="/app.js" defer></script>
+</head>
+<body>
+    <div class="app-frame">
+        <aside class="sidebar" id="sidebar">
+            <a class="brand" href="#dashboard" aria-label="CinemaHub, на головну">
+                <span class="brand-mark">C<span>H</span></span>
+                <span class="brand-copy"><strong>CinemaHub</strong><small>КІНОТЕАТР · МЕНЕДЖМЕНТ</small></span>
+            </a>
+            <div class="side-caption">РОБОЧЕ МІСЦЕ</div>
+            <nav class="main-nav" aria-label="Основна навігація">
+                <a class="nav-link active" href="#dashboard" data-view="dashboard"><span class="nav-icon">⌂</span>Огляд</a>
+                <a class="nav-link" href="#schedule" data-view="schedule"><span class="nav-icon">▦</span>Афіша й сеанси</a>
+                <a class="nav-link" href="#movies" data-view="movies"><span class="nav-icon">▤</span>Фільмотека</a>
+                <a class="nav-link" href="#tickets" data-view="tickets"><span class="nav-icon">▧</span>Квитки</a>
+                <a class="nav-link" href="#halls" data-view="halls"><span class="nav-icon">◫</span>Кінозали</a>
+            </nav>
+            <div class="side-caption side-caption-spaced">ІНСТРУМЕНТИ</div>
+            <nav class="main-nav" aria-label="Інструменти">
+                <a class="nav-link" href="#queries" data-view="queries"><span class="nav-icon">⌘</span>Конструктор SQL</a>
+                <a class="nav-link" href="#reports" data-view="reports"><span class="nav-icon">▥</span>Звіти</a>
+                <a class="nav-link" href="#guide" data-view="guide"><span class="nav-icon">▣</span>Практикум</a>
+            </nav>
+            <div class="sidebar-bottom">
+                <div class="database-status"><span class="status-dot"></span><span><strong>База працює</strong><small>Локальна SQLite · офлайн</small></span></div>
+                <a class="schema-link" href="/schema.sql" download="cinemahub.sql">↓&nbsp; SQL-схема для MS SQL Server</a>
+                <div class="sidebar-user"><span class="avatar">АД</span><span><strong>Адміністратор</strong><small>Кінотеатр CinemaHub</small></span><span class="user-more">···</span></div>
+            </div>
+        </aside>
+
+        <div class="workspace">
+            <header class="topbar">
+                <button class="mobile-menu" id="mobile-menu" aria-label="Відкрити меню">☰</button>
+                <div class="breadcrumbs"><span>Керування</span><span class="crumb-divider">/</span><strong id="breadcrumb-current">Огляд</strong></div>
+                <div class="topbar-actions"><span class="today-label" id="topbar-date"></span><span class="topbar-divider"></span><button class="icon-button" id="quick-refresh" aria-label="Оновити дані" title="Оновити">↻</button><button class="avatar avatar-top" aria-label="Профіль адміністратора">АД</button></div>
+            </header>
+            <main class="page-content" id="app" tabindex="-1"></main>
+        </div>
+    </div>
+    <div id="toast-region" class="toast-region" aria-live="polite"></div>
+    <div id="modal-root"></div>
+</body>
+</html>
